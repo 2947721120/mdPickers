@@ -1,6 +1,7 @@
 # mdPickers
 Material Design date/time pickers built with Angular Material and Moment.js
 
+![image](https://cloud.githubusercontent.com/assets/13098589/14771330/2d1e7060-0aba-11e6-8371-dfdce5dd93a8.png)
 
 ## Online demos
 
